@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyGithubApp3</string>
+
+    <string name="followers">%d followers</string>
+    <string name="following">%d following</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="search_hint">Search GitHub user</string>
+
+    <string name="public_repos_num">%d repositories</string>
+
+    <string name="title_screen_detail">User detail</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_about">About</string>
+
+    <string name="about_name">Muhammad Rizal Nurromdhoni</string>
+    <string name="about_email"> mrizaln2000@gmail.com</string>
+    <string name="about_github">mrizaln</string>
+    <string name="about_linkedin">muhammad-rizal-nurromdhoni</string>
+</resources>
